@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=connect4game\ flag
+comment0.target=RandomAgent(Connect4Game,\ boolean)
+comment1.params=
+comment1.target=void\ move()
+comment2.params=connect4game\ i
+comment2.target=void\ moveOnColumn(Connect4Game,\ int)
+comment3.params=connect4column
+comment3.target=Connect4Slot\ getTopEmptySlot(Connect4Column)
+comment4.params=
+comment4.target=java.lang.String\ getName()
+numComments=5
